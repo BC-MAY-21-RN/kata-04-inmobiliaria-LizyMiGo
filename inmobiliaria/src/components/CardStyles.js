@@ -18,6 +18,9 @@ const CardStyles = StyleSheet.create({
   txtDetails: {
     fontWeight: 'bold',
   },
+  icons: {
+    flexDirection: 'row',
+  },
 });
 
 export default CardStyles;
