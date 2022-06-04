@@ -4,7 +4,8 @@ const CardStyles = StyleSheet.create({
   card: {
     backgroundColor: '#E9FCEF',
     padding: 15,
-    margin: 20,
+    marginHorizontal: 20,
+    marginVertical: 10,
     borderRadius: 15,
     flexDirection: 'row',
   },

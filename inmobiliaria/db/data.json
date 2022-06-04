@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "The Willows",
-      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/01/a1/4b/98/the-willow-house.jpg",
       "location": "3517 W. Gray St. Utica",
       "beds": 3,
       "toilets": 2,
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "title": "Orchard House",
-        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "img": "http://isteam.wsimg.com/ip/856fd03b-c594-497c-b644-a8652bdc6bcd/oh-spring_cvb.jpg",
         "location": "3517 W. Gray St. Utica",
         "beds": 3,
         "toilets": 2,
@@ -24,7 +24,7 @@
       {
         "id": 3,
         "title": "Corner House",
-        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "img": "https://image.architonic.com/imgArc/project-1/4/5209805/ko-and-co-architecture-corner-house-architonic-hawdon-street-0504-01-01.jpg",
         "location": "3517 W. Gray St. Utica",
         "beds": 3,
         "toilets": 2,
@@ -35,7 +35,7 @@
       {
         "id": 4,
         "title": "Concord",
-        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "img": "https://www.worldculture.org/images/permanent/1407Rev3-8-04.jpg",
         "location": "3517 W. Gray St. Utica",
         "beds": 3,
         "toilets": 2,
