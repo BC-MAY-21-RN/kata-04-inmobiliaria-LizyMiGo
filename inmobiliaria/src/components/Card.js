@@ -3,17 +3,24 @@ import {View, Text, Image} from 'react-native';
 import CardStyles from './CardStyles';
 import IonIcon from 'react-native-vector-icons/Ionicons';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import Img from './cover.jpg';
 
-const Card = () => {
+const Card = ({id, title, location, beds, toilets, m, price, stars}) => {
   return (
     <View style={CardStyles.card}>
-      <Image style={CardStyles.image} source={Img} />
       <View>
-        <Text style={CardStyles.title}>Lugar</Text>
+        <Image style={CardStyles.image} source={Img} />
+        <View style={CardStyles.stars}>
+          <FontAwesome name="star" size={15} color="#F5CC49" />
+          <Text style={CardStyles.txtDetails}>4.7</Text>
+        </View>
+      </View>
+      <View>
+        <Text style={CardStyles.title}>{title}</Text>
         <View style={CardStyles.icons}>
           <IonIcon name="location-outline" size={20} />
-          <Text>Ubicacion</Text>
+          <Text>Direccion</Text>
         </View>
         <View style={CardStyles.details}>
           <View style={CardStyles.icons}>

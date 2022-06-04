@@ -1,8 +1,9 @@
 import React from 'react';
-import Card from './src/components/Card';
+import List from './src/components/List';
+import Inmuebles from './db/data';
 
 const App = () => {
-  return <Card />;
+  return <List data={Inmuebles} />;
 };
 
 export default App;

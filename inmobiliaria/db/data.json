@@ -1,12 +1,46 @@
 [
     {
       "id": 1,
-      "title": "Lemon Pie",
+      "title": "The Willows",
       "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
       "location": "3517 W. Gray St. Utica",
       "beds": 3,
       "toilets": 2,
       "m": "230 ft2",
-      "price": "$440/m"
-    }
+      "price": "$440/m",
+      "stars": "4.7"
+    },
+    {
+        "id": 2,
+        "title": "Orchard House",
+        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": 3,
+        "toilets": 2,
+        "m": "230 ft2",
+        "price": "$440/m",
+        "stars": "4.7"
+      },
+      {
+        "id": 3,
+        "title": "Corner House",
+        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": 3,
+        "toilets": 2,
+        "m": "230 ft2",
+        "price": "$440/m",
+        "stars": "4.7"
+      },
+      {
+        "id": 4,
+        "title": "Concord",
+        "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": 3,
+        "toilets": 2,
+        "m": "230 ft2",
+        "price": "$440/m",
+        "stars": "4.7"
+      }
 ]
