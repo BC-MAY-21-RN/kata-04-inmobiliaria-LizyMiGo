@@ -13,6 +13,9 @@ const CardStyles = StyleSheet.create({
     justifyContent: 'space-between',
     flexDirection: 'row',
   },
+  content: {
+    width: '65%',
+  },
   title: {
     fontWeight: 'bold',
     fontSize: 20,
